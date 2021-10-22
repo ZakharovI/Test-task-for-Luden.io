@@ -1,13 +1,9 @@
-# Welcome to Defold
+# Hello!
 
-This project was created from the "empty" project template.
+This project took ~12 hours to prepare and build from scratch.
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+Before this project I didn’t know anything about Lua and Defold, so I learned a lot from tutorials on the Defold official webdite and different forums. It is always very interesting when you start working in a new engine (and also with new program language). Thanks Luden.io for such awesome experience.
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
-
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
-
-Happy Defolding!
+Wish you a good game!
 
 ---
